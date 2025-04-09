@@ -30,7 +30,7 @@ SheHub is a digital platform designed to connect, inspire, and support women in 
 
 ## 📁 Project Structure (Planned)
 
-``bash
+```bash
 shehub/
 ├── src/
 │   ├── main/
@@ -39,6 +39,7 @@ shehub/
 │   └── test/
 ├── pom.xml
 └── README.md
+```
 
 ---
 
